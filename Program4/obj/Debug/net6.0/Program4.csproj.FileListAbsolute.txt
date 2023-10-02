@@ -1,0 +1,14 @@
+C:\Workspace\CSharp\CSharpStudy\CShrpBasic\Special\SpecialLecture\Program4\bin\Debug\net6.0\Program4.exe
+C:\Workspace\CSharp\CSharpStudy\CShrpBasic\Special\SpecialLecture\Program4\bin\Debug\net6.0\Program4.deps.json
+C:\Workspace\CSharp\CSharpStudy\CShrpBasic\Special\SpecialLecture\Program4\bin\Debug\net6.0\Program4.runtimeconfig.json
+C:\Workspace\CSharp\CSharpStudy\CShrpBasic\Special\SpecialLecture\Program4\bin\Debug\net6.0\Program4.dll
+C:\Workspace\CSharp\CSharpStudy\CShrpBasic\Special\SpecialLecture\Program4\bin\Debug\net6.0\Program4.pdb
+C:\Workspace\CSharp\CSharpStudy\CShrpBasic\Special\SpecialLecture\Program4\obj\Debug\net6.0\Program4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp\CSharpStudy\CShrpBasic\Special\SpecialLecture\Program4\obj\Debug\net6.0\Program4.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\CSharpStudy\CShrpBasic\Special\SpecialLecture\Program4\obj\Debug\net6.0\Program4.AssemblyInfo.cs
+C:\Workspace\CSharp\CSharpStudy\CShrpBasic\Special\SpecialLecture\Program4\obj\Debug\net6.0\Program4.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\CSharpStudy\CShrpBasic\Special\SpecialLecture\Program4\obj\Debug\net6.0\Program4.dll
+C:\Workspace\CSharp\CSharpStudy\CShrpBasic\Special\SpecialLecture\Program4\obj\Debug\net6.0\refint\Program4.dll
+C:\Workspace\CSharp\CSharpStudy\CShrpBasic\Special\SpecialLecture\Program4\obj\Debug\net6.0\Program4.pdb
+C:\Workspace\CSharp\CSharpStudy\CShrpBasic\Special\SpecialLecture\Program4\obj\Debug\net6.0\Program4.genruntimeconfig.cache
+C:\Workspace\CSharp\CSharpStudy\CShrpBasic\Special\SpecialLecture\Program4\obj\Debug\net6.0\ref\Program4.dll
